@@ -1,7 +1,4 @@
 # Random-Forest-Fraud-prevention
-
-Random Forest uses a method that builds multiple decision trees and combines them to produce a more robust and accurate prediction. Each tree in the Random Forest is built from a random sample of the dataset, and at each node, a random selection of features is considered to determine the split.
-
 # The main characteristics of Random Forest include:
 
 Reduction of Overfitting: By combining multiple trees, Random Forest reduces the variability and overfitting found in individual decision trees.
